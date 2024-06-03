@@ -50,16 +50,6 @@
     margin-bottom: 0;
     padding: 1rem;
   }
-  /* MAYBE KEEP MAYBE NO???? */
-
-  #about.section__pic-container {
-    height: 100%;
-    width: 100%;
-    margin-bottom: 0;
-    padding: 1rem;
-  }
-
-/* ^^^MAYBE KEEP MAYBE NO????^^^ */
 
   article {
     font-size: 1rem;
@@ -111,5 +101,13 @@
   }
   .text-container {
     text-align: justify;
+  }
+}
+
+/* Media Query for Mobile */
+@media (max-width: 768px) {
+  .section__pic-container {
+    width: 80vw; /* Adjust width for mobile */
+    height: 80vw; /* Adjust height for mobile */
   }
 }
