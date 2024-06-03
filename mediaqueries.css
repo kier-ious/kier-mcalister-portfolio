@@ -42,7 +42,7 @@
 
 @media screen and (max-width: 600px) {
   .logo {
-    font-size: 5rem;
+    font-size: 3rem;
   }
   body {
     font-family: 'Title fonts', sans-serif;
@@ -106,7 +106,7 @@
     flex-wrap: wrap;
   } */
   .desktop-nav .logo {
-    font-size: 5rem;
+    font-size: 3rem;
   }
   .nav-links {
     flex-direction: column;
@@ -138,9 +138,9 @@
 }
 
 /* Media Query for Mobile */
-@media (max-width: 1000px) {
+@media (max-width: 932px) {
   .desktop-nav .logo {
-    font-size: 5rem;
+    font-size: 3rem;
   }
   body {
     font-family: 'Title fonts', sans-serif;

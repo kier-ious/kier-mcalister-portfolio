@@ -66,8 +66,8 @@ a:hover {
   text-decoration-color: rgb(181, 181, 181);
 }
 
-.desktop-nav .logo {
-  font-size: 5rem;
+.logo {
+  font-size: 3rem;
 }
 
 .logo:hover {
