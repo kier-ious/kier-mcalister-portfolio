@@ -439,8 +439,8 @@ article .icon {
 
 .project-btn {
   color: black;
-  background-color: antiquewhite;
-  border-color: rgb(163,163,163);
+  /* background-color: antiquewhite; */
+  border-color: darkslategrey;
 }
 
 /* CONTACT */

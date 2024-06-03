@@ -57,7 +57,15 @@
     margin-bottom: 0;
     padding: 1rem;
   }
-
+  .details-container h2 {
+    font-size: 2rem;
+  }
+  .details-container h3 {
+    font-size: 1.5rem;
+  }
+  .details-container h3 p {
+    font-size: 1.5rem;
+  }
   article {
     font-size: 1rem;
   }
@@ -131,6 +139,15 @@
     background-repeat: no-repeat;
     background-size: cover;
     /* background-color: #DDF2CC; */
+  }
+  .details-container h2 {
+    font-size: 2rem;
+  }
+  .details-container h3 {
+    font-size: 1.5rem;
+  }
+  .details-container h3 p {
+    font-size: 1.5rem;
   }
   .section__pic-container {
     width: 80vw; /* Adjust width for mobile */
