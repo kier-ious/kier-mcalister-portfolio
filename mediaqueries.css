@@ -67,12 +67,16 @@
   .about-containers, .contact-info-upper-container, .btn-container {
     flex-wrap: wrap;
     text-align: center;
+    /* font-size: large; */
   }
   .contact-info-container {
     margin: 0;
   }
-  .contact-info-container p, .nav-links li a {
+  .contact-info-container p {
     font-size: 1rem;
+  }
+  .contact-info-container .nav-links li a {
+    font-size: 2rem;
   }
   .experience-sub-title {
     font-size: 1.25rem;
