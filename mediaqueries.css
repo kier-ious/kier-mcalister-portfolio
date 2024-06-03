@@ -84,6 +84,9 @@
     text-align: center;
     /* font-size: large; */
   }
+  .contact-info-upper-container {
+    flex-direction: column;
+  }
   .contact-info-container {
     margin: 0;
   }
