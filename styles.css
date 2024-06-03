@@ -66,7 +66,7 @@ a:hover {
   text-decoration-color: rgb(181, 181, 181);
 }
 
-.logo {
+.desktop-nav .logo {
   font-size: 5rem;
 }
 
@@ -209,7 +209,7 @@ section {
 }
 
 .section__text__p2 {
-  font-weight: bold;
+  /* font-weight: bold; */
   text-align: center;
   font-size: 5rem;
   margin-bottom: 1rem;

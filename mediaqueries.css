@@ -41,6 +41,9 @@
 }
 
 @media screen and (max-width: 600px) {
+  .logo {
+    font-size: 5rem;
+  }
   body {
     font-family: 'Title fonts', sans-serif;
     background-image: url(./assets/background.png);
@@ -102,8 +105,8 @@
   /* .experience-details-container {
     flex-wrap: wrap;
   } */
-  .logo {
-    font-size: 1.5rem;
+  .desktop-nav .logo {
+    font-size: 5rem;
   }
   .nav-links {
     flex-direction: column;
@@ -135,7 +138,10 @@
 }
 
 /* Media Query for Mobile */
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
+  .desktop-nav .logo {
+    font-size: 5rem;
+  }
   body {
     font-family: 'Title fonts', sans-serif;
     background-image: url(./assets/background.png);
